@@ -1,4 +1,4 @@
-<h1>Currency Checker</h1>
+<h1>Currency Checker Javascript Application</h1>
 <h1>Installation</h1>
 <ul>
 <li>Install node.js</li>
